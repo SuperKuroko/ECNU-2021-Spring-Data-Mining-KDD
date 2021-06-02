@@ -9,6 +9,6 @@
 
 **KDD实验报告:[KDD Final Report](http://kuroko.info/wp-content/uploads/Data-Mining/KDD-report.pdf)**
 
-**可以注意到KDD\KDD_Benchmark\data下的文件夹为空，因为文件太大不便上传到GitHub，请下载[dataset.zip](http://kuroko.info/wp-content/uploads/Data-Mining/KDD-report.pdf)后解压到data文件夹下**
+**可以注意到KDD\KDD_Benchmark\data下的文件夹为空，因为文件太大不便上传到GitHub，请下载[dataset.zip](http://kuroko.info/wp-content/uploads/Data-Mining/dataset.zip)后解压到data文件夹下**
 
 **实验过程可移步个人博客:[KDD竞赛日志](http://kuroko.info/data-mining-kdd-diary/)**
