@@ -1,0 +1,1 @@
+python evalution.py C:\Users\Kuroko\Data-Mining\KDD\KDD_Benchmark\data\dataset\valid_set\Valid.gold.csv C:\Users\Kuroko\Data-Mining\KDD\KDD_Benchmark\predict\test.predict
